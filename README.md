@@ -1,5 +1,3 @@
----
-
 # Spring Boot E-Commerce CRUD Application
 
 This project demonstrates a complete CRUD application using Spring Boot, Spring Data JPA and H2 Database.
